@@ -5,4 +5,4 @@ Follow the steps:
   3. Run - python manage.py migrate
   4. Create superuser - python manage.py createsuperuser
   5. Manually add Clients and Expenses in admin page (http://localhost:8000/admin)
-  6. Run - python manage.py runserver
+  6. Run - python manage.py runserver (http://localhost:8000/)
